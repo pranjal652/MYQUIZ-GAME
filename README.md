@@ -1,1 +1,1 @@
-# MYQUIZ-GAME
+# MyQuiz
